@@ -5,7 +5,7 @@ Andestech AE350 Platform
 
 The AE350 prototype demonstrates the AE350 example platform on the FPGA. 
 This configuration builds with Linux 5.4 and OpenSBI 0.7 tarballs from 
-AndeSight 5.0.0 package.
+AndeSight 5.1.0 package.
 
 How to build it
 ===============
